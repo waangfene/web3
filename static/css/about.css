@@ -1,0 +1,139 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 26px;
+    color: #333;
+    
+}
+div {
+    display: block;
+}
+.loc {
+    border-bottom: 1px solid #d2d2d2;
+    height: 60px;
+    margin-top: 20px;
+}
+.w1100 {
+    width: 1200px;
+    margin: 0px auto;
+}
+.loc a.on {
+    display: block;
+    float: left;
+    padding-right: 40px;
+    color: #dcbf0a;
+    font-size: 14px;
+}
+a {
+    outline: none;
+}
+.loc a {
+    display: block;
+    float: left;
+    padding-right: 40px;
+    color: #000;
+    font-size: 14px;
+    line-height: 30px;
+}
+.loc a:hover{
+	color:#dcbf0a ;
+}
+.title01 {
+    height: 60px;
+    font-size: 24px;
+    color: #333;
+    width: 100px;
+    border-bottom: 2px solid #dcbf0a;
+    margin: 0px auto;
+    line-height: 60px;
+    text-align: center;
+}
+.mainbody {
+    margin: 30px auto;
+    width: 1200px;
+}
+.content01 {
+    margin-top: 30px;
+}
+.ml30{
+	width: 100%;
+}
+.fl {
+    float: left;
+    display: inline;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+#fiv{
+    vertical-align: middle;
+}
+td{
+	vertical-align: top;
+}
+td, th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+p {
+    display: block;
+}
+#one{
+	text-align: center;
+    font-family: 微软雅黑;
+    color: #94641a;
+    font-size: 20px;
+}
+.lh30{
+    line-height: 30px;
+}
+#two{
+	text-indent: 2em;
+    font-family: 微软雅黑;
+    color: #333333;
+    font-size: 14px;
+}
+.mt30 {
+    margin-top: 30px;
+}
+#three{
+	text-indent: 27.45pt;
+}
+.flv1 {
+    width: 590px;
+    float: left;
+}
+.flv1 a{
+    text-decoration: none;
+    color: #333;
+
+}
+.clear {
+    clear: both;
+}
+
+
+
+
+
+
+
+
+

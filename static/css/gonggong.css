@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #2d2d2d;;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+body {
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 26px;
+    color: #333;
+}
+
+.top{
+	height:131px;
+    
+}
+.top .w1100 .w1100_top{
+	background: repeat-x left top #173152;
+}
+.w1100 {
+    width: 1200px;
+    height: 30px;
+    margin: 0px auto;
+}
+.header .logo{
+	float: left;
+}
+.header .logo a{
+    width: 200px;
+    height: 100px;
+    background: url(../img/logo.png) no-repeat left 50%;
+    display: block;
+}
+.header .menu {
+    float: right;
+    width: 960px;
+    margin-top: 30px;
+    background: #fff;
+}
+#nav {
+    padding: 0 0 0 0px;
+    margin: 0;
+    list-style: none;
+    position: relative;
+    z-index: 500;
+    font-family: "微软雅黑";
+}
+#nav li.top-li {
+    display: block;
+    float: left;
+    padding: 0px 20px;
+    background: #fff;
+}
+#nav li a {
+    margin-left: 0px;
+    color: #2d2d2d;
+    font-size: 16px;
+    text-align: center;
+    padding: 0px 0px;
+    display: block;
+    height: 50px;
+    margin-top: 0px;
+    line-height: 40px;
+    cursor: pointer;
+}
+/*切换头部标签颜色*/
+#nav li a.cur{
+    color: #ce9b03;
+    font-size: 16px;
+    border-bottom: 2px solid #fbc41f;
+    text-align: center;
+    display: block;
+    height: 50px;
+    margin-top: 0px;
+    line-height: 40px;
+}
+#nav li a.top_link:hover{
+	color: #ce9b03;
+    font-size: 16px;
+    border-bottom: 2px solid #fbc41f;
+    text-align: center;
+    display: block;
+    height: 50px;
+    margin-top: 0px;
+    line-height: 40px;
+}
+
+.footer {
+    background: #2f302e;
+    padding: 0px 0px;
+    margin-top: 30px;
+}
+
+.foot1 img{
+	position: relative;
+	top: 4px;
+}
+.foot1 a {
+    color: #fff;
+}
+.foot1 .foot1-a1:hover{
+	color: #54cc66;
+}
+.footer .w1100{
+	height: 100px;
+}
+.foot1 {
+	width: 1200px;
+	height: 92px;
+    color: #fff;
+    text-align: center;
+    padding-top:  20px ;
+}
+.nbanner {
+    height: 260px;
+}

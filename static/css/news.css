@@ -1,0 +1,134 @@
+.body_top ul li {
+	float: left;
+	padding: 20px;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.body_top ul li a:hover {
+	color: #dcbf0a;
+}
+
+.body_top ul {
+	margin-left: 200px;
+	float: left;
+}
+
+.body_body_top {
+	width: 100%;
+	height: 50px;
+	float: left;
+	text-align: center;
+	font-size: 2em;
+}
+
+.body_body_top p {
+	width: 115px;
+	height: 30px;
+	margin: 0px auto;
+	padding-bottom: 5px;
+	border-bottom: 5px #dcbf0a solid;
+}
+
+.body {
+	width: 100%;
+	height: 1600px;
+}
+
+.new_box {
+	width: 1500px;
+	margin: 0px auto;
+}
+
+.new_box ul {
+	width: 100%;
+	height: 150px;
+}
+
+.box_img a img {
+	height: 150px;
+	width: 150px;
+	float: left;
+}
+
+.xinwen {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	line-height: 26px;
+}
+
+.box1 {
+	width: 120px;
+	height: 150px;
+	margin-left: 100px;
+	line-height: 50px;
+	float: left;
+	padding: 6px;
+}
+
+.day {
+	width: 95px;
+	height: 26px;
+	font-size: 40px;
+	float: left;
+}
+
+.month {
+	width: 95px;
+	height: 26px;
+	font-size: 16px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.wenzi {
+	width: 765px;
+	height: 100px;
+	float: left;
+	margin-left: 36px;
+	margin-top: 10px;
+}
+
+.wenzi dt a {
+	font-size: 20px;
+}
+
+.more1 {
+	font-size: 18px;
+	height: 30px;
+	border: 1px solid #b3adad;
+	line-height: 28px;
+	text-align: center;
+	color: #b59c01;
+	display: block;
+	width: 100px;
+	margin-top: 15px;
+	padding: 5px;
+}
+
+.body .body_body .new_box ul li {
+	width: 100%;
+	float: left;
+	padding-left: 100px;
+}
+
+.body .body_body .new_box ul li:hover {
+	background-color: #dcbf0a;
+	color: white;
+}
+
+.body .body_body .new_box ul li:hover .wenzi dt a {
+	color: white;
+}
+
+.body .body_body .new_box ul li:hover .wenzi .more1 {
+	color: white;
+	border: white solid 1px;
+}
+#aaa{
+	 width: 100%; 
+	 height: 100px; 
+	 text-align: center;
+	 padding-top: 280px; 
+}

@@ -1,0 +1,82 @@
+a{
+	text-decoration: none;
+	}
+body {
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 26px;
+    color: black;
+}
+.head{
+		height: 60px;
+		width: 1200px;
+		margin: 0px auto;
+		
+		
+}
+
+.head a{
+	
+    display: block;
+    float: left;
+    padding-right: 40px;
+    color: #000;
+    font-size: 14px;
+    line-height: 30px
+}
+.head a:hover{
+	color:#dcbf0a;
+    font-size: 14px;
+   
+    text-align: center;
+    display: block;
+
+}
+   
+.head a .on{ 
+	display: block;
+    float: left;
+    padding-right: 40px;
+    color: #dcbf0a;
+    font-size: 14px;
+}   
+.nav{
+	   height: 60px;
+    font-size: 24px;
+    color: #333;
+    width: 100px;
+    border-bottom: 2px solid #dcbf0a;
+    margin: 0px auto;
+    line-height: 60px;
+    text-align: center;
+}
+.body1{
+	text-align: center;
+	
+}
+.leg{
+	text-align: center;
+}
+.body1 table{
+	width: 1200px;
+	height: 1060px;
+	margin: 0px auto;
+	margin-top: 30px;
+	
+}
+.body1 table tr td{
+	margin: 12px;
+	margin-top: 10px;
+}
+.body1 table tr td img {
+	width: 265px;
+	height: 227px;
+	padding:5px ;
+	background-color: #f2f2f2;;
+}
+.body1 table tr td img:hover{
+	width: 265px;
+	height: 227px;
+	padding:5px ;
+	background-color: #dcbf0a;;
+}

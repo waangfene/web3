@@ -1,0 +1,82 @@
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    font-weight: normal;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.mingren {
+    margin-top: 30px;
+}
+.tit01 {
+	width: 1200px;
+	height: 64px;
+	margin: 0 auto;
+}
+.tit01 h3 {
+    line-height: 60px;
+    font-size: 24px;
+    color: #000;
+    border-bottom: 4px solid #dcbf0a;
+    float: left;
+    text-align: left;
+}
+.tit01 span {
+    line-height: 60px;
+    font-size: 14px;
+    color: #000;
+    float: right;
+    text-align: right;
+}
+.mr {
+	width: 1160px;
+	margin: 0 auto;
+    margin-top: 30px;
+    background: #eeeeee;
+    padding: 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.clearfix {
+	height: 499px;
+    zoom: 1;
+}
+.mr ul li {
+    float: left;
+    width: 33.33%;
+    padding: 0 10px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.mr ul li a {
+    display: block;
+    width: 100%;
+}
+.mr ul li img {
+    width: 100%;
+}
+.mt20 {
+    margin-top: 20px;
+}
+.f14 {
+    font-size: 14px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
